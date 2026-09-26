@@ -20,7 +20,7 @@
 <a id="sobre"></a>
 ##  Sobre mim · About me
 
-🇧🇷 Oi! Sou o **João Pedro de Barros Marques**, estudante de **Ciência da Computação no CEUB** (Brasília – DF). Gosto de transformar dados em respostas e ideias em aplicativos. Meu foco é desenvolver meu lado **analítico** para seguir carreira em **Ciência de Dados**, me aprofundando cada vez mais em **Inteligência Artificial**.
+🇧🇷 Oi! Sou o **João Pedro de Barros Marques**, estudante de **Ciência da Computação no CEUB** (Brasília – DF) e de **Estatística na UNB**. Gosto de transformar dados em respostas e ideias em aplicativos. Meu foco é desenvolver meu lado **analítico** para seguir carreira em **Ciência de Dados**, me aprofundando cada vez mais em **Inteligência Artificial**.
 
 Sou **excelente no uso de IA como ferramenta de desenvolvimento**: as ideias, a arquitetura e as decisões são minhas, e a IA me ajuda a tirá-las do papel com mais velocidade e qualidade.
 
