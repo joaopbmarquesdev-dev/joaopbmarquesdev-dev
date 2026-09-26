@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+CEUB+%F0%9F%8E%93;Rumo+%C3%A0+Ci%C3%AAncia+de+Dados+%F0%9F%93%8A;Ideias+minhas%2C+IA+como+ferramenta+%F0%9F%A4%96;Building+apps+%26+projects+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=100000&color=F97316&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+CEUB+%F0%9F%8E%93;Estat%C3%ADstica+%40+UnB+%F0%9F%93%8A" alt="Ciência da Computação @ CEUB · Estatística @ UnB">
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=100000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Estat%C3%ADstica+%40+UnB+%F0%9F%93%8A" alt="Estatística @ UnB">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=30&lines=Rumo+%C3%A0+Ci%C3%AAncia+de+Dados+%F0%9F%93%8A;Ideias+minhas%2C+IA+como+ferramenta+%F0%9F%A4%96;Building+apps+%26+projects+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 <p align="center">
