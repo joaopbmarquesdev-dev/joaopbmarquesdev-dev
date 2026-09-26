@@ -10,6 +10,7 @@
   <a href="#sobre">Sobre / About</a> ·
   <a href="#conta">Esta conta / This account</a> ·
   <a href="#objetivos">Objetivos / Goals</a> ·
+  <a href="#projetos">Projetos / Projects</a> ·
   <a href="#roadmap">Roadmap</a> ·
   <a href="#stack">Stack</a> ·
   <a href="#stats">Stats</a>
@@ -18,9 +19,9 @@
 ---
 
 <a id="sobre"></a>
-##  Sobre mim · About me
+## 🙋‍♂️ Sobre mim · About me
 
-🇧🇷 Oi! Sou o **João Pedro de Barros Marques**, estudante de **Ciência da Computação no CEUB** (Brasília – DF) e de **Estatística na UNB**. Gosto de transformar dados em respostas e ideias em aplicativos. Meu foco é desenvolver meu lado **analítico** para seguir carreira em **Ciência de Dados**, me aprofundando cada vez mais em **Inteligência Artificial**.
+🇧🇷 Oi! Sou o **João Pedro de Barros Marques**, estudante de **Ciência da Computação no CEUB** (Brasília – DF). Gosto de transformar dados em respostas e ideias em aplicativos. Meu foco é desenvolver meu lado **analítico** para seguir carreira em **Ciência de Dados**, me aprofundando cada vez mais em **Inteligência Artificial**.
 
 Sou **excelente no uso de IA como ferramenta de desenvolvimento**: as ideias, a arquitetura e as decisões são minhas, e a IA me ajuda a tirá-las do papel com mais velocidade e qualidade.
 
@@ -44,6 +45,58 @@ I'm **highly skilled at using AI as a development tool**: the ideas, design and 
 | 📊 | Desenvolver minhas **capacidades analíticas** e me tornar **cientista de dados** | Grow my **analytical skills** and become a **data scientist** |
 | 📱 | **Criar aplicativos** que resolvam problemas reais | **Build apps** that solve real problems |
 | 🤖 | Me envolver cada vez mais com **IA e Ciência de Dados** | Get more and more involved in **AI and Data Science** |
+
+<a id="projetos"></a>
+## 🚀 Projetos · Projects
+
+<table>
+<tr>
+<td width="72%" valign="top">
+
+### 🌱 [EcoTracker](https://github.com/joaopbmarquesdev-dev/trabalhoboot)
+🇧🇷 Sistema de controle de estoque em linha de comando para pequenos negócios. Cadastra, atualiza e remove produtos com validação de regras (sem estoque negativo), salva tudo em JSON e busca dados de produtos pelo **código de barras** via API Open Food Facts.
+<br>🇺🇸 CLI inventory system for small businesses: product CRUD with business-rule validation, JSON persistence and **barcode lookup** through the Open Food Facts API.
+
+</td>
+<td width="28%" valign="middle" align="center">
+<img src="https://img.shields.io/badge/Python-f97316?style=flat-square&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Pytest-f97316?style=flat-square&logo=pytest&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Flake8-7c3aed?style=flat-square"><br>
+<img src="https://img.shields.io/badge/GitHub%20Actions-7c3aed?style=flat-square&logo=githubactions&logoColor=white"><br>
+<img src="https://img.shields.io/badge/API%20REST-374151?style=flat-square">
+</td>
+</tr>
+<tr>
+<td width="72%" valign="top">
+
+### 🔧 [Oficina](https://github.com/joaopbmarquesdev-dev/oficina)
+🇧🇷 Sistema web de gestão para oficina mecânica, com login e sessão, dashboard e módulos de **clientes, mecânicos, veículos, peças e ordens de serviço**.
+<br>🇺🇸 Web management system for an auto repair shop: authentication, dashboard and modules for **customers, mechanics, vehicles, parts and work orders**.
+
+</td>
+<td width="28%" valign="middle" align="center">
+<img src="https://img.shields.io/badge/PHP-f97316?style=flat-square&logo=php&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-7c3aed?style=flat-square&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-374151?style=flat-square&logo=html5&logoColor=white">
+</td>
+</tr>
+<tr>
+<td width="72%" valign="top">
+
+### 🌐 [Desenvolvimento Web · CEUB](https://github.com/joaopbmarquesdev-dev/ceub_ciencia_2026)
+🇧🇷 Coleção das minhas práticas de desenvolvimento web, organizadas por aula: páginas HTML, estilização com CSS e o framework Skeleton.
+<br>🇺🇸 My web development practice work, organized by class: HTML pages, CSS styling and the Skeleton framework.
+
+</td>
+<td width="28%" valign="middle" align="center">
+<img src="https://img.shields.io/badge/HTML5-f97316?style=flat-square&logo=html5&logoColor=white"><br>
+<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-374151?style=flat-square&logo=javascript&logoColor=white">
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>🛠️ Mais projetos em breve · More projects coming soon</sub></p>
 
 <a id="roadmap"></a>
 ## 🗺️ Roadmap de estudos · Study roadmap
